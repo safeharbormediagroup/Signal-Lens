@@ -109,10 +109,10 @@ class SignalLens:
         print(f"Density Score: {signal.density_score()}")
         print("-" * 40)
 
-    def run_research_report(self, minimum_score=60):
+    def run_insight_diagnostic(self, minimum_score=60):
         strong_signals = self.reservoir.filter_by_strength(minimum_score)
 
-        print("\nSIGNAL LENS MARKETING REPORT")
+        print("\nSIGNAL LENS MARKETING DIAGNOSTIC")
         print("=" * 40)
 
         for signal in strong_signals:
