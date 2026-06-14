@@ -6,6 +6,123 @@ Marketing Enhancement
 # Marketing Prototype
 # Purpose: Organize public marketing signals into cleaner insights.
 
+
+
+Signal Lens
+
+Welcome to Signal Lens
+
+Marketing leaves clues everywhere.
+
+Every campaign, creative, headline, video, and product offer tells a story about what brands are testing, scaling, and investing in. Signal Lens helps bring those stories into focus.
+
+Signal Lens is a marketing enhancement layer designed to improve visibility across public advertising environments. Instead of scrolling endlessly through campaigns, Signal Lens helps organize activity into clearer patterns, stronger insights, and more useful reports.
+
+Whether you’re tracking creative trends, monitoring active advertisers, or exploring new marketing opportunities, Signal Lens helps transform scattered advertising activity into actionable marketing intelligence.
+
+⸻
+
+Marketing Insights
+
+Creative Density
+
+Identify advertisers running multiple variations of the same creative strategy.
+
+High creative density often suggests confidence in a campaign and can reveal which products, offers, or messages are receiving continued investment.
+
+⸻
+
+Campaign Visibility
+
+Monitor how brands position products across different campaigns.
+
+Track changes in messaging, visuals, offers, and calls-to-action to understand how marketers adapt over time.
+
+⸻
+
+Trend Discovery
+
+Spot recurring themes, products, and creative approaches appearing across multiple advertisers.
+
+Emerging trends often become visible through repetition before they become obvious to the broader market.
+
+⸻
+
+Insight Reports
+
+Convert marketing observations into organized reports.
+
+Export campaign information into structured formats for comparison, tracking, and long-term analysis.
+
+⸻
+
+Features
+
+URL Navigator
+
+Customize advertising views and quickly move between categories, regions, timelines, and campaign segments.
+
+⸻
+
+Signal Filter
+
+Reduce clutter by filtering out low-activity campaigns and highlighting stronger marketing signals.
+
+Focus attention where activity is most concentrated.
+
+⸻
+
+Signal Sweep
+
+Automatically navigate large advertising collections while continuously gathering marketing observations.
+
+Spend less time scrolling and more time identifying opportunities.
+
+⸻
+
+Insight Export
+
+Export collected observations into CSV reports for additional analysis, organization, and record keeping.
+
+⸻
+
+Recommended Workflow
+
+1. Open a marketing category or niche.
+2. Scan active campaigns.
+3. Identify recurring creative patterns.
+4. Filter low-activity results.
+5. Export campaign insights.
+6. Build marketing reports.
+7. Monitor changes over time.
+
+⸻
+
+Philosophy
+
+Signal Lens is not focused on finding advertisements.
+
+Signal Lens is focused on understanding marketing activity.
+
+Advertisements are simply the visible footprints left behind by brands competing for attention.
+
+By following those footprints, marketers can better understand trends, creative strategies, campaign momentum, and emerging opportunities.
+
+⸻
+
+Marketing. Simplified.
+
+Filter the noise.
+
+See the patterns.
+
+Build better insight reports.
+
+Welcome to Signal Lens.
+
+
+
+
 import csv
 from dataclasses import dataclass, field
 from typing import List
