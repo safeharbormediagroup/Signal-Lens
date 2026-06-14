@@ -121,7 +121,7 @@ Build better insight reports.
 Welcome to Signal Lens.
 
 
-
+example_below
 
 import csv
 from dataclasses import dataclass, field
@@ -285,4 +285,6 @@ if __name__ == "__main__":
         creative_style="Influencer-style ad"
     )
 
-    lens.run_research_report(minimum_score=60)
+    lens.run_signal_lens_report(minimum_score=60)
+
+    example
